@@ -1,0 +1,5 @@
+#ifndef _SMARTHOUSESYS_H
+#define _SMARTHOUSESYS_H
+
+
+#endif // _SMARTHOUSESYS_H
